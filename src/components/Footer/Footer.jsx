@@ -51,7 +51,7 @@ const Footer = () => {
       <div className="bottom-bar">
         <div className="bottom-bar-content">
           <span className="text">
-            PI INFINITY TECHNOLOGY 2024. PREMIUM E-TEACHING SOLUTIONS.
+       test uzma
           </span>
           <img src={Payment} />
         </div>
